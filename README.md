@@ -1,4 +1,5 @@
 Type in Action
+
 Statement:
 Type in Action is an interactive type specimen, which not only showcase the design but also allow the audience to interact with the typeface in through sound, color and 3D view. 
 
