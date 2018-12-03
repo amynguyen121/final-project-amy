@@ -9,4 +9,7 @@ The project includes different built in interaction to showcase a typeface, I de
 Component parts:
 _ Original typeface
 _ 3D letters
-_ Sound effects   
+_ Sound effects  
+
+Project Update:
+As I'm working on this project, I have ran into a few challenges with keyboard interaction. For the sake of the project and the tight dealine, I decided to keep my interaction within the mouse function. Instead of using keyboard to change the type's color, I used the mouse position to change spotlight position, which gave a effect of changing color on 3D model. I also adding particals, which mimic the visual effect of the original type specimen,on mouse click. 
